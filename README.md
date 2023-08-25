@@ -4,9 +4,10 @@ Um projeto teste com um arquivo README 🚀
 [<img src="./tela.gif" alt="gif da tela de como criar readme">]
 
 ## Tecnologias Utilizadas:
+- Python
 - HTML
 - CSS
-- JS
+- JS (Basic)
 
 ## Como utilizar
 
