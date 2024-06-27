@@ -3,12 +3,6 @@ Um projeto teste com um arquivo README 🚀
 
 [<img src="./tela.gif" alt="gif da tela de como criar readme">]
 
-## Tecnologias Utilizadas:
-- Python
-- HTML
-- CSS
-- JS (Basic)
-
 ## Como utilizar
 
 1 - Clone do projeto usando git clone
